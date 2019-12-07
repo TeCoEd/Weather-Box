@@ -12,3 +12,5 @@ More build details here: https://www.tecoed.co.uk/enviro-weather.html
 Youtube - https://www.youtube.com/watch?v=Oz0FqOMt4Xo&feature=youtu.be
 
 Hackster.io https://www.hackster.io/TeCoEd
+
+Buy the Enviro + here: https://shop.pimoroni.com/products/enviro?variant=31155658457171
